@@ -1,14 +1,6 @@
 # logstv
 
-Logstv is an open source logging platform for twitch.tv (NOT ENDORSED BY TWITCH.TV).
-Most of the stuff is still in development.
-
-# TODO 
-
-- use versioning for go dependencies
-- write a frontend
-- jenkinsfile for easier deployments
-- implement rq: get latest and oldest message by timestamp, generate a random date between latest and oldest --> then what?
+This was an experimental test of cassandra as a log database. I was not happy how efficent storage was so I moved away from cassandra in github.com/gempir/logstv
 
 # Helpful
 
